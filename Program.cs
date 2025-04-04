@@ -29,7 +29,7 @@ class Program
         // Calls the Welcome method
         greetings.Welcome();
 
-        // Calls the Hello method with a string argument
+        // Calls the Hello method with a string argument. I could have made it have the user type in their desired name, but nah...Houston, I have a bone to pick with you.
         greetings.Hello("Houston");
     }
 }
